@@ -1,0 +1,7 @@
+CACHE MANIFEST
+index.html
+./js/angular.min.js
+./js/angular-route.min.js
+./js/app.js
+./css/index.css
+./css/app.css
